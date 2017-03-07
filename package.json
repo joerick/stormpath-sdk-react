@@ -4,14 +4,6 @@
   "description": "Stormpath SDK for React.",
   "author": "Stormpath, Inc.",
   "license": "Apache-2.0",
-  "files": [
-    "*.md",
-    "es6",
-    "lib",
-    "umd",
-    "dist",
-    "src"
-  ],
   "main": "lib/index",
   "jsnext:main": "es6/index",
   "repository": {
